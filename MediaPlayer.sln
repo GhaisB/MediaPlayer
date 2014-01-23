@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPlayer", "MediaPlayer\MediaPlayer.csproj", "{2DACEC7E-6F44-46DE-A9C7-DC46FE0239B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{B9EC0858-C8FE-4508-8C27-F6129E1C23FA}"
+	ProjectSection(SolutionItems) = preProject
+		MediaPlayer\icone.ico = MediaPlayer\icone.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DACEC7E-6F44-46DE-A9C7-DC46FE0239B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DACEC7E-6F44-46DE-A9C7-DC46FE0239B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DACEC7E-6F44-46DE-A9C7-DC46FE0239B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DACEC7E-6F44-46DE-A9C7-DC46FE0239B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
